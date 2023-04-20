@@ -1,4 +1,4 @@
-## Recipe Guide for Tidying Random Data in R 
+## Recipe Guide for Tidying Business Data in R 
 
 Data is the backbone of any machine learning project. However, data is rarely in the format that is required for machine learning algorithms. Data must be transformed, cleaned, and manipulated to achieve the desired results. This process is known as data cleaning, or data wrangling. Data cleaning is an essential step in the machine learning pipeline. Through examples, we will discuss how to tidy data in R for machine learning in business.
 
